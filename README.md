@@ -1,4 +1,3 @@
-# endogeneity-in-inference-and-forecasting
 # Endogeneity in statistical inference and forecasting
 Project created for *Simulations and Forecasting* classes at WNE UW
 
@@ -34,3 +33,6 @@ Findings:
 ## Authors
  - Maciej Odziemczyk
  - Karolina Stępień
+
+## Note
+The whole idea was based on the Judea Pearl's causality theory, I encourage you to read more about in the "CAUSALITY Models. Reasoning and Inference" Cambridge Univeristy Press (2000/2009).
