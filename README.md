@@ -9,6 +9,8 @@ Semester: IV (MA studies)
 ## About
 The main objective of this project was to analyze identification problems in statistical inference and forecasting based on linear regression model. The approach was to generate the data (1 000 000 observations) according to defined Data Generation Process (DGP) and estimate some models. The idea was to analyze behavoir of the regression coefficients and predictions depending on explanatory variables variables set. The DGP contained variables such as mediators (positive and negative), confounders, instrumental and mediated. After regression results analysis the Monte Carlo simulation was performed. The simulation was about DGP structural parameters sampling (1 000 times) to see if our conclusions about forecasting are generalisable. We also tried to answerar the question: Can standard OLS diagnostic help to find the right model? RMSE was the prediction metric.
 
+![DGP graph](https://raw.githubusercontent.com/maciejodziemczyk/endogeneity-in-inference-and-forecasting/main/dgp_v2.png)
+
 Findings:
  * standad diagnostics doese not guarantee finding the right model
  * sign of the mediator does not matter (assuming that mediator has positive impact on dependent variable) in terms of predictions
